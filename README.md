@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hassan_ali9@outlook.com**
 
-- 📄 Know about my experiences [You can find it on LinkedIn Profile](You can find it on LinkedIn Profile)
+- 📄 My resume (You can find it on LinkedIn Profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
