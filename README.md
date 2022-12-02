@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SwiftUI, Combine.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HassanAli9?tab=repositories](HassanAli9-Repositories)
+- 👨‍💻 All of my projects are available at (HassanAli9-Repositories)(https://github.com/HassanAli9?tab=repositories)
 
 - 💬 Ask me about **Swift, iOS and any thing related to them.**
 
