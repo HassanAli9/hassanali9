@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **SwiftUI, Combine.**
 
-- 👨‍💻 All of my projects are available at (HassanAli9-Repositories)(https://github.com/HassanAli9?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/HassanAli9?tab=repositories](https://github.com/HassanAli9?tab=repositories)
 
 - 💬 Ask me about **Swift, iOS and any thing related to them.**
 
 - 📫 How to reach me **hassan_ali9@outlook.com**
 
-- 📄 My resume [https://drive.google.com/file/d/18u_sT1sYmE2sxzgGgzgaToDKfK96ZUat/view?usp=sharing](Hassan-iOS-CV)
+- 📄 My resume [https://drive.google.com/file/d/18u_sT1sYmE2sxzgGgzgaToDKfK96ZUat/view?usp=sharing](https://drive.google.com/file/d/18u_sT1sYmE2sxzgGgzgaToDKfK96ZUat/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
