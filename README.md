@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanali9" alt="hassanali9" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI, Combine**
+- 🌱 I’m currently learning **SwiftUI, Combine.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HassanAli9?tab=repositories](https://github.com/HassanAli9?tab=repositories)
 
