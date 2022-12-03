@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hassan_ali9@outlook.com**
 
-- 📄 My resume [shorturl.at/rsEOY](https://drive.google.com/file/d/18u_sT1sYmE2sxzgGgzgaToDKfK96ZUat/view?usp=sharing)
+- 📄 My resume [HassanAli_CV_iOS](https://drive.google.com/file/d/18u_sT1sYmE2sxzgGgzgaToDKfK96ZUat/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
